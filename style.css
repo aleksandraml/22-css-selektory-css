@@ -1,0 +1,11 @@
+p{
+    color:rgb(169, 61, 61)
+}
+
+.first{
+    background-color: rgb(86, 55, 114);
+}
+
+h1+h3{
+    color:rgb(19, 23, 23)
+}
